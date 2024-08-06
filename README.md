@@ -1,0 +1,1 @@
+Implemented a user-friendly Command-Line Interface (CLI) for prompt user interaction, demonstrating proficiency in data manipulation and JSON serialization. Employed Python and enhanced user experience by writing code to support operations like product management and cart summaries.
